@@ -19,7 +19,6 @@ Just start the bot and choose a category:
 - Meme 😂
 - Study 📚
 - Discipline 🧠
-- ```bash
-pip install -r requirements.txt
+- ```bash pip install -r requirements.txt
 python karantalksbot.py
 Made with ❤️ by Karan_talks7
